@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Watcharr](github.com/sbondCo/Watcharr)
 
-- 👨‍💻 All of my projects are available at [github.com/oPisiti](github.com/oPisiti)
+- 👨‍💻 All of my projects are available at [oPisiti](github.com/oPisiti)
 
 - 💬 Ask me about **Python, C++**
 
