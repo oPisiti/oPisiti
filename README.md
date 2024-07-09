@@ -25,8 +25,8 @@
 
 <br>
 <h3 align="left">Github stats:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opisiti&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C" alt="opisiti" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opisiti&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="opisiti" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=opisiti&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="opisiti" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=opisiti&show_icons=true&locale=en&theme=nightowl" alt="opisiti" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=opisiti&show_icons=true&locale=en&theme=nightowl" alt="opisiti" /></p>
